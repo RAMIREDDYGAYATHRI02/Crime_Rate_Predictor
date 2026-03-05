@@ -66,16 +66,6 @@ Random Forest is an **ensemble learning method** that builds multiple decision t
 
 ---
 
-## ✨ Features
-
-✔ Predict crime rate for **10 crime categories**
-✔ Supports **19 Indian metropolitan cities**
-✔ Uses historical data from **2014 – 2021**
-✔ Machine learning powered prediction
-✔ Easy and user-friendly interface
-✔ Accurate prediction using **Random Forest Model**
-
----
 
 ## ⚙️ Installation
 
